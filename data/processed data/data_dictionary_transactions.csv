@@ -1,0 +1,21 @@
+Column Name,Description,Data Type
+DATE,Transaction date,datetime64
+STORE_NBR,Store number where transaction occurred,int
+LYLTY_CARD_NBR,Customer loyalty card number,int
+TXN_ID,Unique transaction ID,int
+PROD_NBR,Product number,int
+PROD_NAME,Original product name,string
+PACK_SIZE,"Size of the product (e.g., 175g)",string
+CLEAN_NAME,Cleaned product name without pack size,string
+BRAND,Brand extracted from product name,string
+PRODUCT_DESCRIPTION,Product description without brand,string
+PROD_QTY,Number of products sold,int
+TOT_SALES,Total transaction sales amount,float
+YEAR,Year of transaction,int
+MONTH,Month of transaction,int
+MONTH_NAME,Month name,string
+DAY,Day of month,int
+DAY_OF_WEEK,Day of the week (0=Monday),int
+DAY_NAME,"Name of day (e.g., Monday)",string
+WEEK,ISO calendar week number,int
+WEEKEND,Whether transaction was on a Weekend/Weekday,string
