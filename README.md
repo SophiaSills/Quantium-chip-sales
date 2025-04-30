@@ -65,9 +65,6 @@ These 5 brands make up over 60% of all chip sales.
 
 ## 📊 Report Preview
 
-
-## Visual Highlights
-
 ## 📈 Visual Highlights
 
 ### Top 5 Brands by Sales
