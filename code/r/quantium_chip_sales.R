@@ -143,6 +143,9 @@ plot_premium <- ggplot(sales_by_premium, aes(x = reorder(PREMIUM_CUSTOMER, TOT_S
     plot.margin = margin(10, 40, 10, 10)  # top, right, bottom, left
   )
 
+# --- Show the plot ---
+plot_premium
+
 ggsave(
   here("outputs", "charts", "sales_by_customer_premium_r.png"),
   plot = plot_premium,
