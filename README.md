@@ -65,9 +65,13 @@ These 5 brands make up over 60% of all chip sales.
 
 ## 📊 Report Preview
 
+
 ## Visual Highlights
-```{r}
-![Top 5 Brands](outputs/charts/top_5_brands_r.png)
+
+## 📈 Visual Highlights
+
+### Top 5 Brands by Sales
+![Top 5 Brands by Sales](outputs/charts/top_5_brands_r.png)
 
 ### Monthly Sales Trends
 ![Monthly Sales Trends](outputs/charts/monthly_sales_trend_facet_r.png)
@@ -81,7 +85,7 @@ These 5 brands make up over 60% of all chip sales.
 ### Sales by Customer Premium Tier
 ![Sales by Customer Premium Tier](outputs/charts/sales_by_customer_premium_r.png)
 
-```
+
 📄 [Download the Final Report (PDF)](Quantium_Chip_Sales_Analysis_Report.pdf)
 
 
